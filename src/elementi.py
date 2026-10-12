@@ -1,4 +1,3 @@
-# мои элементы flet
 
 import flet as ft
 
