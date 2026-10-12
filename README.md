@@ -13,7 +13,7 @@
 ## файлы
 
 - `pyproject.toml` настройки проекта Flet
-- `src/main.py` запускает программу
+- `src/main.py` запускает прогу
 - `src/sklad_proga.py` главное окно и кнопки
 - `src/modeli.py` классы товаров, категорий, поставщиков и операций
 - `src/baza.py` работа с SQLite
@@ -23,17 +23,14 @@
 - `src/sklad.db` база данных
 - `tests/test_proverka.py` проверка
 
-## скриншоты
+## скрины
 
-### главная
 
 ![главная страница](screenshots/1.png)
 
-### товары
 
 ![страница товаров](screenshots/2.png)
 
-### операции
 
 ![страница операций](screenshots/3.png)
 
