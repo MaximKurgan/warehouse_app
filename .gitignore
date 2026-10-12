@@ -1,0 +1,21 @@
+# python
+__pycache__/
+*.py[cod]
+
+# окружение
+.venv/
+venv/
+env/
+
+# временные файлы
+.pytest_cache/
+.coverage
+.flet/
+build/
+*.db-journal
+otchet_seansa.txt
+
+# редакторы и macos
+.idea/
+.vscode/
+.DS_Store
